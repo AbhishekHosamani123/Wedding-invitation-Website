@@ -9,7 +9,7 @@ export default function App() {
         muted
         playsInline
         className="fixed inset-0 w-full h-full object-cover z-0 opacity-80"
-        src="/wedding BG.mp4"
+        src="https://raw.githubusercontent.com/AbhishekHosamani123/Wedding-invitation-Website/main/public/wedding%20BG.mp4"
       />
       
       {/* DARK GRADIENT OVERLAY */}
